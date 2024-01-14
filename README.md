@@ -4,3 +4,4 @@
 2 - add node as right child <br />
 3 - delete an entire binary tree <br />
 4 - check if node is leaf of a binary tree <br />
+5 - checks if node is root of a binary tree <br />
