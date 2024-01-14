@@ -9,3 +9,12 @@
 7 - goes through binary tree using inorder traversal <br />
 8 - traversing binary tree using postorder traversal <br />
 9 - finds height of binary tree <br />
+10 - finds depth of node in binary tree <br />
+11 - finds the size of binary tree <br />
+12 - counts the leaves in binary tree <br />
+13 - counts nodes with at least 1 child <br />
+14 - measures the balance factor of a binary tree <br />
+15 - checks if binary tree is full <br />
+16 - checks if a binary tree is perfect <br />
+17 - finds the sibling of a node <br />
+18 - finds the uncle of a node <br />
