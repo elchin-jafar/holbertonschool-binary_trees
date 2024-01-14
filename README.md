@@ -6,3 +6,4 @@
 4 - check if node is leaf of a binary tree <br />
 5 - checks if node is root of a binary tree <br />
 6 - goes through binary tree using preorder traversal <br />
+7 - goes through binary tree using inorder traversal <br />
