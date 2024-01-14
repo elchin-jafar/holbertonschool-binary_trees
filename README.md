@@ -8,3 +8,4 @@
 6 - goes through binary tree using preorder traversal <br />
 7 - goes through binary tree using inorder traversal <br />
 8 - traversing binary tree using postorder traversal <br />
+9 - finds height of binary tree <br />
